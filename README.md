@@ -60,3 +60,40 @@ The dataset was provided in the reference material section of the project. It in
 - **Microsoft Excel** (Pivot Tables, Charts, Formulas)
 - **Data Visualization** (Histograms, Column Charts, Dynamic Tables)
 - **Statistical Analysis** (RMSE Calculation)
+
+# Insights:
+1️⃣ **Auto & Accessories Sales**
+**Key Insights:**
+- **Total Sales:** ₹10,97,139
+- **Profit:** ₹4,84,277
+- **Quantity Sold:** 22,395
+- Sales are **consistent across months**, with a steady profit trend.
+
+2️⃣ __Electronics Sales__
+__Key Insights:__
+- __Sales:__ ₹3,94,738
+- __Profit:__ ₹1,74,175
+- __Quantity Sold:__ 8,211
+- Electronics category has __lower sales and profit__ compared to other categories.
+
+3️⃣ **Fashion Sales**
+**Key Insights:**
+- **Sales:** ₹52,12,097 __(Highest)__
+- **Profit:** ₹24,83,852
+- **Quantity Sold:** 92,071 __(Highest)__
+- **Fashion contributes the most** to total revenue and profit.
+
+4️⃣ **Home & Furniture Sales**
+**Key Insights:**
+- **Sales:** ₹13,19,407
+- **Profit:** ₹5,87,597
+- **Quantity Sold:** 31,055
+- Sales & profit are __moderate but higher__ than Electronics & Auto Accessories.
+
+# 📈 **Key Takeaways**
+◆ **Fashion** is the most profitable category, generating the highest sales and quantity sold.  
+◆ **Electronics** have **lower sales and profit**, indicating scope for improvement.  
+◆ **Central Asia** is the **top-performing region** across all categories.  
+◆ The **No. of Orders Aging Wise** metric shows that most orders are **completed within 0-5 days**.  
+◆ **Seasonal trends** are evident—higher sales in certain months.  
+
